@@ -1,5 +1,5 @@
-#madlib game 
-adj = input ("Adjective: ")
+# madlib game
+adj = input("Adjective: ")
 person_i_hate = input("Person you hate: ")
 verb = input("Verb: ")
 verb1 = input("Verb: ")
