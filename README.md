@@ -14,4 +14,6 @@ Practice Python with mini projects and games
 - Fork and Clone 
 - pipenv install
 
+## Projects / Games 
 
+1. Madlibs
